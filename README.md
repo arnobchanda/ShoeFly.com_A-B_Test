@@ -12,3 +12,4 @@ They have two different versions of an ad, which they have placed in emails, as 
 
 # Additional comments
 1. Each set of objective is analysed and saved as seperate csv file with the appropriate name. Refer to the comments in the python code to see the relevant details.
+2. All the print commands are commented out. You can uncomment a specific print() to see the result in the terminal.
